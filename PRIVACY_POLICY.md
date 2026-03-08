@@ -6,6 +6,12 @@ Hidrate ("we", "our", or "the app") is a hydration tracking application. This Pr
 
 ---
 
+## Medical Disclaimer
+
+Hidrate is not a medical device and is not intended to diagnose, treat, cure, or prevent any medical condition. Hydration estimates, beverage factors, and goal recommendations are approximations for general wellness purposes only and may vary by individual. Always consult a qualified healthcare professional for medical advice regarding hydration and health.
+
+---
+
 ## Information We Collect
 
 ### Personal Information
